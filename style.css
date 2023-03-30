@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(235, 216, 193);
+}
+
+#container {
+    margin-left: 45%;
+    margin-top: 10%;
+}
+
+h1 {
+    margin-left: -1.5%;
+}
+
+#output {
+    margin-left: 7%;
+    margin-top: 5%;
+    font-size: 2rem;
+}
